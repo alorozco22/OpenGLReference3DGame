@@ -8,6 +8,10 @@ This is my adaptation from the [ThinMatrix OpenGL 3D Game Tutorial](https://www.
 
 This project is not meant to be massively developed. The main purpose is to familiarize myself with the game engine. However, if it helps as reference for someone else, it is free to access.
 
+## Installation
+
+To see the source code you may download the project and import it to **eclipse** as any other Java Project. The main class is located at `engineTester.MainGameLoop` class.
+
 ## Other materials
 
 Before this tutorial, the [RealTutsGML Java Game Programming Tutorial](https://www.youtube.com/watch?v=DXT11ZbB2Mk&list=PLWms45O3n--54U-22GDqKMRGlXROOZtMx) was a very usefull introduction to videogames development to me.
