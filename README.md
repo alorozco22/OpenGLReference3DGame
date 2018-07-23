@@ -10,7 +10,7 @@ This project is not meant to be massively developed. The main purpose is to fami
 
 ## Installation
 
-To see the source code you may download the project and import it to **eclipse** as any other Java Project. The main class is located at `engineTester.MainGameLoop` class.
+To see the source code you may download the project and import it to **eclipse** as any other Java Project. The main method is located at `engineTester.MainGameLoop` class.
 
 ## Other materials
 
