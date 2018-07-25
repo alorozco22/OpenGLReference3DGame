@@ -17,4 +17,5 @@ To see the source code you may download the project and import it to **eclipse**
 Before this tutorial, the [RealTutsGML Java Game Programming Tutorial](https://www.youtube.com/watch?v=DXT11ZbB2Mk&list=PLWms45O3n--54U-22GDqKMRGlXROOZtMx) was a very usefull introduction to videogames development to me.
 
 *Happy coding.*
+
 Alfredo.
